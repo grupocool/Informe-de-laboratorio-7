@@ -9,7 +9,7 @@
  
  **Docente:** Ing. Darwin Alulema.
  
- **Tema:** Inductor y Capasitor
+ **Tema:** Inductor y Capacitor
 # 1. Objetivo General
 
 - Analizar el comportamiento de la bobina y el capacitor en circuitos DC y AC.
@@ -26,6 +26,9 @@
 
 # 3. Marco Teórico
 
+![Inductancia en serie y en paralelo, Inductancia y estado estable de CD, Energia almacenada por una inductancia (1)](https://user-images.githubusercontent.com/85137954/131417100-ba0c716e-fd5a-474e-b1c0-4364f886f46c.png)
+
+![Capacitores con un voltaje inicial](https://user-images.githubusercontent.com/85137954/131418323-cd308056-1c6c-4d58-8e36-51bd738d700f.png)
 
 # 4. Material y Equipo Requerido
 
