@@ -113,8 +113,7 @@ frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
 # 5. Video
 
-https://youtu.be/Iqd0vu2DdSc![WhatsApp Image 2021-08-30 at 19 36 20](https://user-images.githubusercontent.com/85137954/131424356-68877a9d-c2b6-4860-91ac-058e47229acd.jpeg)
-
+https://youtu.be/Iqd0vu2DdSc
 
 # 6. Conclusiones
 
