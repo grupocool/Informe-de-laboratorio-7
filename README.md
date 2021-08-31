@@ -77,9 +77,13 @@ frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 4.4 Preguntas.
 
 1. ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
+- Por un lado la bobina impide el paso de la corriente hasta que logra crear su propio campo magnetico permitiendo que los electrones fluyan sin resistencia alguna, lo que nos dice que solo en un principio presenta una oposicion al paso de la corriente. Por otro lado el capacitor actua de forma contraria, ya que permite el paso de la corriente hasta que las placas quedan completamente cargadas positiva y negativamente como corresponda, al momento que el capacitor queda completamente cargado este actua como un circuito abierto.
 2. ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+- La bobina como la resistencia se opone al flujo de la corriente, pero a diferencia de esta, el valor de esta oposición se llama reactancia inductiva. Por otro lado el condensador se carga y descarga tantas veces como varíe la tensión permitiendo que no existan caidas de tension tan repentinas dado el caso de que la fuente deje de aportar energia.
 3. ¿Qué cree usted que ocurriría con el voltaje Vo y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos  capacitores de valores distintos?
+- Simplemente los calculos variarian y seria necesario encontrar tanto la capacitancia como la impedancia equivalente en paralelo.
 4. ¿Qué son los valores eficaces de voltaje y corriente?
+- Son los valores equivalentes a los utilizados en la corriente directa pero que se manejan en corriente alterna. El valor eficaz de una corriente alterna, es el valor que tendría una corriente continua que produjera la misma potencia que dicha corriente alterna 
 
 # 5. Video
 
@@ -87,7 +91,7 @@ https://youtu.be/cjp6xejJpcE
 
 # 6. Conclusiones
 
-
+- Concluimos que a medida que la señal de frecuencia va en aumento o en deceso, los valores de la constante de tiempo y del voltaje máximo varían y todo esto depende de la configuración del circuito, ya que la impedancia del capacitor o inductor está en función de la frecuencia, El tiempo es una constante indicando el tiempo en que se carga totalmente el capacitor.
 
 # 7. Referencias
 
