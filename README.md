@@ -125,6 +125,31 @@ PARTE A Y B
 c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la
 frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
+0 [Hz]
+
+![image](https://user-images.githubusercontent.com/85137954/131426876-c8895e44-e9fe-4d5a-a1ba-6fba4c346506.png)
+
+10 [Hz]
+
+![image](https://user-images.githubusercontent.com/85137954/131426897-19319b42-6be1-4083-8396-138eebed9d75.png)
+
+50 [Hz]
+
+![image](https://user-images.githubusercontent.com/85137954/131426921-d4583268-2fee-46ed-9ebe-4b11401adb9b.png)
+
+100[Hz]
+
+![image](https://user-images.githubusercontent.com/85137954/131426953-3bc4f5a3-5209-489c-b3f7-687c82cdbe70.png)
+
+500 [Hz]
+
+![image](https://user-images.githubusercontent.com/85137954/131426990-a48bd537-6359-4459-a3e2-1b89100d07b8.png)
+
+1000[Hz]
+
+![image](https://user-images.githubusercontent.com/85137954/131427010-e4bc6d56-4c19-4926-9859-02be528687e8.png)
+
+
 4.3 Análisis de resultados.
 
 4.4 Preguntas.
