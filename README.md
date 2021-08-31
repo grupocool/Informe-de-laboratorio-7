@@ -12,7 +12,7 @@
  **Tema:** Inductor y Capacitor
 # 1. Objetivo General
 
-- Analizar el comportamiento de la bobina y el capacitor en circuitos DC y AC.
+- Analizar el comportamiento de la bobina y el capacitor en circuitos CD y AC.
 
 ## 1.2 Objetivos Específicos
 
@@ -46,15 +46,41 @@
 
 a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los
 valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
-
-
 b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores
 de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
+0
+![WhatsApp Image 2021-08-30 at 19 32 46 (1)](https://user-images.githubusercontent.com/85137954/131424437-f122e722-505a-4681-b1f6-4399ca43a1b6.jpeg)
+
+10
+![WhatsApp Image 2021-08-30 at 19 36 20](https://user-images.githubusercontent.com/85137954/131424364-b7a79f65-3280-444b-ba4e-f50a7eec9f5b.jpeg)
+
+50
+![WhatsApp Image 2021-08-30 at 19 37 10](https://user-images.githubusercontent.com/85137954/131424372-0cf0aefc-954b-4bc2-9a54-ab2c27c4c2d1.jpeg)
+
+100
+![WhatsApp Image 2021-08-30 at 19 38 46](https://user-images.githubusercontent.com/85137954/131424389-d39cae7e-6016-4754-b82f-88647aceeae9.jpeg)
+
+500
+![WhatsApp Image 2021-08-30 at 19 40 26](https://user-images.githubusercontent.com/85137954/131424394-4fef3080-ba69-4407-a27f-5012b8164acd.jpeg)
+
+1000
+![WhatsApp Image 2021-08-30 at 19 41 42](https://user-images.githubusercontent.com/85137954/131424434-edd5e7fd-8e84-4964-9d62-a8cb73c4d366.jpeg)
 
 c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la
 frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
+0
+
+10
+
+50
+
+100
+
+500
+
+1000
 
 
 4.2 Construya en el protoboard el circuito mostrado en la Figura 2.
@@ -87,7 +113,8 @@ frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
 # 5. Video
 
-https://youtu.be/cjp6xejJpcE
+https://youtu.be/Iqd0vu2DdSc![WhatsApp Image 2021-08-30 at 19 36 20](https://user-images.githubusercontent.com/85137954/131424356-68877a9d-c2b6-4860-91ac-058e47229acd.jpeg)
+
 
 # 6. Conclusiones
 
