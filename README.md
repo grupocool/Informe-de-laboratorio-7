@@ -49,22 +49,22 @@ valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas obser
 b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores
 de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
-0
+0 [Hz]
 ![WhatsApp Image 2021-08-30 at 19 32 46 (1)](https://user-images.githubusercontent.com/85137954/131424437-f122e722-505a-4681-b1f6-4399ca43a1b6.jpeg)
 
-10
+10 [Hz]
 ![WhatsApp Image 2021-08-30 at 19 36 20](https://user-images.githubusercontent.com/85137954/131424364-b7a79f65-3280-444b-ba4e-f50a7eec9f5b.jpeg)
 
-50
+50 [Hz]
 ![WhatsApp Image 2021-08-30 at 19 37 10](https://user-images.githubusercontent.com/85137954/131424372-0cf0aefc-954b-4bc2-9a54-ab2c27c4c2d1.jpeg)
 
-100
+100 [Hz]
 ![WhatsApp Image 2021-08-30 at 19 38 46](https://user-images.githubusercontent.com/85137954/131424389-d39cae7e-6016-4754-b82f-88647aceeae9.jpeg)
 
-500
+500 [Hz]
 ![WhatsApp Image 2021-08-30 at 19 40 26](https://user-images.githubusercontent.com/85137954/131424394-4fef3080-ba69-4407-a27f-5012b8164acd.jpeg)
 
-1000
+1000 [Hz]
 ![WhatsApp Image 2021-08-30 at 19 41 42](https://user-images.githubusercontent.com/85137954/131424434-edd5e7fd-8e84-4964-9d62-a8cb73c4d366.jpeg)
 
 c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la
@@ -96,27 +96,27 @@ de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
 PARTE A Y B
 
-0[Hz]
+0 [Hz]
 
 ![image](https://user-images.githubusercontent.com/85137954/131424928-16f5c681-fe7e-442d-b2b3-b3741fc50589.png)
 
-10[Hz]
+10 [Hz]
 
 ![image](https://user-images.githubusercontent.com/85137954/131424938-0375ca64-2c0c-45db-ab03-e5b9b8be6f03.png)
 
-50[Hz]
+50 [Hz]
 
 ![image](https://user-images.githubusercontent.com/85137954/131424955-0234bf8d-8227-49ec-986d-a88146924859.png)
 
-100[Hz]
+100 [Hz]
 
 ![image](https://user-images.githubusercontent.com/85137954/131424978-a474d993-290c-4fa9-9463-2d690e759d57.png)
 
-500[Hz]
+500 [Hz]
 
 ![image](https://user-images.githubusercontent.com/85137954/131425003-8fb5eb2b-b753-4eab-81d5-773605093f13.png)
 
-1000[Hz]
+1000 [Hz]
 
 ![image](https://user-images.githubusercontent.com/85137954/131425019-c4a8296e-6240-4ff0-8d7f-72da38f39f2e.png)
 
