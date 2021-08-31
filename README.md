@@ -46,6 +46,7 @@
 
 a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los
 valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
+
 b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores
 de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
@@ -89,7 +90,6 @@ frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
 a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los
 valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
-
 
 b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores
 de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
