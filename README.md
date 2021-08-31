@@ -52,43 +52,44 @@ de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
 0 [Hz]
 ![WhatsApp Image 2021-08-30 at 19 32 46 (1)](https://user-images.githubusercontent.com/85137954/131424437-f122e722-505a-4681-b1f6-4399ca43a1b6.jpeg)
-![image](https://user-images.githubusercontent.com/85137954/131441055-5a1e22b5-cb8d-43b3-9490-431eaadbff71.png)
 
 10 [Hz]
 ![WhatsApp Image 2021-08-30 at 19 36 20](https://user-images.githubusercontent.com/85137954/131424364-b7a79f65-3280-444b-ba4e-f50a7eec9f5b.jpeg)
-![image](https://user-images.githubusercontent.com/85137954/131441085-2f6f6d47-ed7a-4d22-be74-3aee12865852.png)
+
 
 50 [Hz]
 ![WhatsApp Image 2021-08-30 at 19 37 10](https://user-images.githubusercontent.com/85137954/131424372-0cf0aefc-954b-4bc2-9a54-ab2c27c4c2d1.jpeg)
-![image](https://user-images.githubusercontent.com/85137954/131441110-94af19df-299b-46a0-9818-3d1545b0f570.png)
+
 
 100 [Hz]
 ![WhatsApp Image 2021-08-30 at 19 38 46](https://user-images.githubusercontent.com/85137954/131424389-d39cae7e-6016-4754-b82f-88647aceeae9.jpeg)
-![image](https://user-images.githubusercontent.com/85137954/131441124-ba1d38ce-09e9-47d8-b5e2-fcbcc9436425.png)
+
 
 500 [Hz]
 ![WhatsApp Image 2021-08-30 at 19 40 26](https://user-images.githubusercontent.com/85137954/131424394-4fef3080-ba69-4407-a27f-5012b8164acd.jpeg)
-![image](https://user-images.githubusercontent.com/85137954/131441136-ab216f3c-a5fc-4d9f-bae9-ac801ed17018.png)
+
 
 1000 [Hz]
 ![WhatsApp Image 2021-08-30 at 19 41 42](https://user-images.githubusercontent.com/85137954/131424434-edd5e7fd-8e84-4964-9d62-a8cb73c4d366.jpeg)
-![image](https://user-images.githubusercontent.com/85137954/131441149-e8803a96-4163-4d39-a8e6-717dd8b8cb10.png)
+
 
 c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la
 frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
 0
+![image](https://user-images.githubusercontent.com/85137954/131441055-5a1e22b5-cb8d-43b3-9490-431eaadbff71.png)
 
 10
-
+![image](https://user-images.githubusercontent.com/85137954/131441085-2f6f6d47-ed7a-4d22-be74-3aee12865852.png)
 50
-
+![image](https://user-images.githubusercontent.com/85137954/131441110-94af19df-299b-46a0-9818-3d1545b0f570.png)
 100
-
+![image](https://user-images.githubusercontent.com/85137954/131441124-ba1d38ce-09e9-47d8-b5e2-fcbcc9436425.png)
 500
 
+![image](https://user-images.githubusercontent.com/85137954/131441136-ab216f3c-a5fc-4d9f-bae9-ac801ed17018.png)
 1000
-
+![image](https://user-images.githubusercontent.com/85137954/131441149-e8803a96-4163-4d39-a8e6-717dd8b8cb10.png)
 
 4.2 Construya en el protoboard el circuito mostrado en la Figura 2.
 
