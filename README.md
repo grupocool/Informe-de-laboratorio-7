@@ -97,22 +97,29 @@ de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 PARTE A Y B
 
 0[Hz]
-![image](https://user-images.githubusercontent.com/85137954/131424746-d1a6d934-70f2-432b-a323-596df7843dbe.png)
+
+![image](https://user-images.githubusercontent.com/85137954/131424928-16f5c681-fe7e-442d-b2b3-b3741fc50589.png)
 
 10[Hz]
-![image](https://user-images.githubusercontent.com/85137954/131424774-f97b8e88-4cb4-4ab2-876e-5f936e5bc631.png)
+
+![image](https://user-images.githubusercontent.com/85137954/131424938-0375ca64-2c0c-45db-ab03-e5b9b8be6f03.png)
 
 50[Hz]
-![image](https://user-images.githubusercontent.com/85137954/131424796-7d9cb5ab-3609-4e7b-8a1c-c5ecdb006999.png)
+
+![image](https://user-images.githubusercontent.com/85137954/131424955-0234bf8d-8227-49ec-986d-a88146924859.png)
 
 100[Hz]
-![image](https://user-images.githubusercontent.com/85137954/131424805-5fbace3b-0bda-4c7c-92ad-e6ceb9a74126.png)
+
+![image](https://user-images.githubusercontent.com/85137954/131424978-a474d993-290c-4fa9-9463-2d690e759d57.png)
 
 500[Hz]
-![image](https://user-images.githubusercontent.com/85137954/131424815-2f41df5a-e3b2-4958-9f0b-74b00c7e80ff.png)
+
+![image](https://user-images.githubusercontent.com/85137954/131425003-8fb5eb2b-b753-4eab-81d5-773605093f13.png)
 
 1000[Hz]
-![image](https://user-images.githubusercontent.com/85137954/131424838-c0d23b43-e7f2-4c7e-aee4-e318ef6f0987.png)
+
+![image](https://user-images.githubusercontent.com/85137954/131425019-c4a8296e-6240-4ff0-8d7f-72da38f39f2e.png)
+
 
 
 c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la
